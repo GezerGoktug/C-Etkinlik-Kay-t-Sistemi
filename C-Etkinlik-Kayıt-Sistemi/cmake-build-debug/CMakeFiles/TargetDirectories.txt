@@ -1,0 +1,3 @@
+C:/Users/ggeze/CLionProjects/C-Etkinlik-Kayıt-Sistemi/cmake-build-debug/CMakeFiles/CengOdev.dir
+C:/Users/ggeze/CLionProjects/C-Etkinlik-Kayıt-Sistemi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ggeze/CLionProjects/C-Etkinlik-Kayıt-Sistemi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
